@@ -5,12 +5,13 @@ import com.aspose.words.*;
 public class aspostTest     extends TestCase{
   public  void testTest()
   {
-	  //²âÊÔgitÌá½»
+	  //ï¿½ï¿½ï¿½ï¿½gitï¿½á½»
 		try {
 			Document doc1 = new Document("E:\\tmp\\1.doc");
 			Document doc2 = new Document("E:\\tmp\\2.doc");
 			 
-			
+			//
+			//
 			  DocumentBuilder builder2 = new DocumentBuilder(doc2);
 			  builder2.moveToMergeField("DOC_ADVICE_COMPANY"); 
 		 
