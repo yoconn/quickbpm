@@ -9,14 +9,18 @@ public class aspostTest     extends TestCase{
 		try {
 			Document doc1 = new Document("E:\\tmp\\1.doc");
 			Document doc2 = new Document("E:\\tmp\\2.doc");
+ 
  //yyyytesr
+ 
+ 
+ 
  
 			  DocumentBuilder builder2 = new DocumentBuilder(doc2);
 			  builder2.moveToMergeField("DOC_ADVICE_COMPANY"); 
 		 
               Node insertAfterNode = builder2.getCurrentParagraph().getPreviousSibling();
 
-
+//ccmtest
 for(int i=0;i<doc1.getSections().getCount();i++)
 {
 	System.out.println("getSections:"+doc1.getSections().getCount());
