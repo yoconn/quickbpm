@@ -10,8 +10,8 @@ public class aspostTest     extends TestCase{
 			Document doc1 = new Document("E:\\tmp\\1.doc");
 			Document doc2 = new Document("E:\\tmp\\2.doc");
 			 
-			//
-			//
+			//yuy
+			//yuy
 			  DocumentBuilder builder2 = new DocumentBuilder(doc2);
 			  builder2.moveToMergeField("DOC_ADVICE_COMPANY"); 
 		 
