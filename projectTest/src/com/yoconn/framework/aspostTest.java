@@ -9,20 +9,8 @@ public class aspostTest     extends TestCase{
 		try {
 			Document doc1 = new Document("E:\\tmp\\1.doc");
 			Document doc2 = new Document("E:\\tmp\\2.doc");
-			 
-			//yuy test
-			//yuy test
+ //yyyytesr
  
-			//yuy 123
-			//yuy 456
- 
-			//ccmtest
-			//ccmttt22
-<<<<<<< HEAD
- //github.com/yoconn/quickbpm.git
-=======
-			//ccmtest4
->>>>>>> branch 'master' of https://github.com/yoconn/quickbpm.git
 			  DocumentBuilder builder2 = new DocumentBuilder(doc2);
 			  builder2.moveToMergeField("DOC_ADVICE_COMPANY"); 
 		 
