@@ -14,6 +14,7 @@ public class aspostTest     extends TestCase{
 			//yuy test
 			//ccmtest
 			//ccmttt22
+			//ccmtest4
 			  DocumentBuilder builder2 = new DocumentBuilder(doc2);
 			  builder2.moveToMergeField("DOC_ADVICE_COMPANY"); 
 		 
