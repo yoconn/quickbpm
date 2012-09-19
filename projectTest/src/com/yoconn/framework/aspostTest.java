@@ -5,6 +5,7 @@ import com.aspose.words.*;
 public class aspostTest     extends TestCase{
   public  void testTest()
   {
+	  //≤‚ ‘gitÃ·Ωª
 		try {
 			Document doc1 = new Document("E:\\tmp\\1.doc");
 			Document doc2 = new Document("E:\\tmp\\2.doc");
